@@ -1,3 +1,5 @@
+# Codigo do famoso joguinho JOKENPÔ. Você escolhe a opção que vai jogar e disputa a vitória com o computador.
+
 from time import sleep
 from random import randint
 itens = ('Pedra', 'Papel', 'Tesoura')
